@@ -1,7 +1,7 @@
 Getting-and-Cleaning-Data
 =========================
 
-Peer Assessments /Getting and Cleaning Data Project
+## Peer Assessments /Getting and Cleaning Data Project
 
 My R script called run_analysis.R does the following: <br>
 1. Merges the training and the test sets to create one data set.<br>
